@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**lysnikolaou/lysnikolaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lysandros Nikolaou and I'm a **[CPython](https://github.com/python/cpython) core developer** and **[pegen](https://github.com/we-like-parsers/pegen) maintainer**.
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://linkedin.com/in/lysnikolaou/"><img align="left" alt="linkedin" src="https://user-images.githubusercontent.com/20306270/202918007-47a95fb9-1a21-43a7-abda-870306425c31.png" height="18px" /></a>
+  <a href="https://fosstodon.org/@lysnikolaou"><img align="left" alt="mastodon" src="https://user-images.githubusercontent.com/20306270/202917904-fb6f2803-5deb-46fa-bd69-08cf13f2ab2d.svg" height="18px" width="18px" /></a>
+  <a href="https://twitter.com/lysnikolaou/"><img align="left" alt="twitter" src="https://user-images.githubusercontent.com/20306270/202917852-1e53129d-6395-4728-b32c-9bb8dbe684df.png" height="18px" width="18px" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=lysnikolaou&show_icons=true&count_private=true" width="400px">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=lysnikolaou&hide_border=true" width="400px">
+</p>
