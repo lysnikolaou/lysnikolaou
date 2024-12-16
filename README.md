@@ -11,5 +11,4 @@ My name is Lysandros Nikolaou and I'm a **[CPython](https://github.com/python/cp
 <br><br>
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=lysnikolaou&show_icons=true&count_private=true" width="400px">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=lysnikolaou&hide_border=true" width="400px">
 </p>
